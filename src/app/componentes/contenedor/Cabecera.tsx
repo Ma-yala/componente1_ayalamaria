@@ -33,7 +33,7 @@ export const Cabecera = () => {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="*">
-                  NoEncontrado
+                  VBS
                 </NavLink>
               </li>
               
